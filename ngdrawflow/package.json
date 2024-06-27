@@ -4,13 +4,7 @@
     "description": "TypeScript definitions for ngdrawflow",
     "homepage": "https://github.com/reginaldoas/ngDrawFlow/types/ngdrawflow",
     "license": "MIT",
-    "contributors": [
-        {
-            "name": "Reginaldo Souza",
-            "githubUsername": "reginaldoas",
-            "url": "https://github.com/reginaldoas"
-        }
-    ],
+    "author": "Reginaldo Souza",
     "main": "",
     "types": "index.d.ts",
     "repository": {
